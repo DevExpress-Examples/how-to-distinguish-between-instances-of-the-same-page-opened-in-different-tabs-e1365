@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/DistinguishingTwoPages/Default.aspx) (VB: [Default.aspx](./VB/DistinguishingTwoPages/Default.aspx))
-* [Default.aspx.cs](./CS/DistinguishingTwoPages/Default.aspx.cs) (VB: [Default.aspx](./VB/DistinguishingTwoPages/Default.aspx))
+* [Default.aspx.cs](./CS/DistinguishingTwoPages/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/DistinguishingTwoPages/Default.aspx.vb))
 <!-- default file list end -->
 # How to distinguish between instances of the same page opened in different tabs
 
